@@ -28,7 +28,7 @@ p {
 }
 
 .qr-code-content img {
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .qr-code-information {
@@ -43,6 +43,7 @@ p {
   font-weight: 700;
   line-height: 1.75rem;
   text-align: center;
+  color: #1f314f;
   max-width: 19ch;
 }
 .qr-code-information p {
