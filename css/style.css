@@ -10,6 +10,7 @@ body {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -60,6 +61,6 @@ p {
 
 @media (max-width: 375px) {
   body {
-    margin: auto 1.75rem;
+    margin: 0 1.75rem;
   }
 }
